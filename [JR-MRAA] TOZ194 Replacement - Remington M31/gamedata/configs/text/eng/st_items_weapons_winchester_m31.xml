@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	<string id="st_wpn_remingtonm31">
+		<text>Remington Model 31</text>
+	</string>
+
+	<string id="st_wpn_remingtonm31_descr">
+		<text>A World War 2 era US-army pump action shotgun with a side-ejection and tubular magazine under the barrel. Used by US military and FBI as a primary shotgun. Was later replaced by Remington 870 and was used as a basis for Mossberg 590. Factory buttstock was replaced with a modified aftermarket pistol grip</text>
+	</string>
+</string_table>

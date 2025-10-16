@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	<string id="st_wpn_r1887">
+		<text>Remington 1187 Police-Huntsman</text>
+	</string>
+
+	<string id="st_wpn_r1887_descr">
+		<text>A modern semi-auto hunting shotgun, converted from a police-issued surplus. A conversion kit replaced the shorter 14 inch barrel with a longer 30 inches counterpart, extended magazine tube and a buffer-tube stock-pistol grip combo. While heavier than original police model, longer barrel addressed certain light load non-cycle issues.</text>
+	</string>
+</string_table>
